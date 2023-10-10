@@ -1,0 +1,14 @@
+
+h
+java:S1192
+"FDefine a constant instead of duplicating this literal "bagus" 3 times.(„Ÿ‚ñøÿÿÿÿ8Ù¥™Ä±1
+^
+java:S1854"<Remove this useless assignment to local variable "arrayInt".(·ïå†üÿÿÿÿ8é¥™Ä±1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯³Áœüÿÿÿÿ8é¥™Ä±1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µª³½8é¥™Ä±1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¥çèªüÿÿÿÿ8é¥™Ä±1
+O
+java:S1481"-Remove this unused "arrayInt" local variable.(·ïå†üÿÿÿÿ8é¥™Ä±1
+U	java:S106""9Replace this use of System.out or System.err by a logger.(ß…Á 8é¥™Ä±1
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(µóØðøÿÿÿÿ8ø¥™Ä±1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ü¥éàùÿÿÿÿ8´à™Ä±1
