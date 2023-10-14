@@ -1,0 +1,51 @@
+
+M
+java:S1854"7Remove this useless assignment to local variable "sum".(¡¤’ƒ
+Q
+java:S1854";Remove this useless assignment to local variable "balance".(áÞËÁ
+U
+java:S1854":Remove this useless assignment to local variable "binInt".(¸¨õ—úÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "hexInt".(¥ÈÕÍ
+Z
+java:S1854"?Remove this useless assignment to local variable "decimalLInt".(õ•ðóøÿÿÿÿ
+X
+java:S1854
+"=Remove this useless assignment to local variable "iniDouble".(Æ²óŸùÿÿÿÿ
+R
+java:S1854	"<Remove this useless assignment to local variable "iniFloat".(ßâÜð
+R
+java:S1854"<Remove this useless assignment to local variable "iniLong2".(¯¶Ä¸
+V
+java:S1854";Remove this useless assignment to local variable "iniLong".(¦Ô‡”ùÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "iniInt".(Óœ„èþÿÿÿÿ
+W
+java:S1854"<Remove this useless assignment to local variable "iniShort".(æŠÿâÿÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "iniByte".(òˆžöúÿÿÿÿ
+G
+java:S1481",Remove this unused "iniByte" local variable.(òˆžöúÿÿÿÿ
+H
+java:S1481"-Remove this unused "iniShort" local variable.(æŠÿâÿÿÿÿÿ
+F
+java:S1481"+Remove this unused "iniInt" local variable.(Óœ„èþÿÿÿÿ
+G
+java:S1481",Remove this unused "iniLong" local variable.(¦Ô‡”ùÿÿÿÿ
+C
+java:S1481"-Remove this unused "iniLong2" local variable.(¯¶Ä¸
+C
+java:S1481	"-Remove this unused "iniFloat" local variable.(ßâÜð
+I
+java:S1481
+".Remove this unused "iniDouble" local variable.(Æ²óŸùÿÿÿÿ
+K
+java:S1481"0Remove this unused "decimalLInt" local variable.(õ•ðóøÿÿÿÿ
+A
+java:S1481"+Remove this unused "hexInt" local variable.(¥ÈÕÍ
+F
+java:S1481"+Remove this unused "binInt" local variable.(¸¨õ—úÿÿÿÿ
+B
+java:S1481",Remove this unused "balance" local variable.(áÞËÁ
+>
+java:S1481"(Remove this unused "sum" local variable.(¡¤’ƒ
