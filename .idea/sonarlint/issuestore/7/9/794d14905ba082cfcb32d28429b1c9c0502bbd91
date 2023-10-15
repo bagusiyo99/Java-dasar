@@ -1,0 +1,27 @@
+
+W
+java:S1854":Remove this useless assignment to local variable "amount".(›úºÊ8¶ª“Â±1
+R
+java:S1854"<Remove this useless assignment to local variable "iniFloat".(Ú»¡‘
+R
+java:S1854"<Remove this useless assignment to local variable "iniLong2".(þ³÷–
+R
+java:S1854"<Remove this useless assignment to local variable "iniShort".(Í¢èº
+Q
+java:S1854";Remove this useless assignment to local variable "iniLong".(ëÄØ‡
+U
+java:S1854"?Remove this useless assignment to local variable "iniInterger".(õ†ø
+F
+java:S1481"0Remove this unused "iniInterger" local variable.(õ†ø
+B
+java:S1481",Remove this unused "iniLong" local variable.(ëÄØ‡
+M	java:S106	"9Replace this use of System.out or System.err by a logger.(ã¶Â6
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ã¶Â6
+C
+java:S1481"-Remove this unused "iniShort" local variable.(Í¢èº
+C
+java:S1481"-Remove this unused "iniLong2" local variable.(þ³÷–
+C
+java:S1481"-Remove this unused "iniFloat" local variable.(Ú»¡‘
+H
+java:S1481"+Remove this unused "amount" local variable.(›úºÊ8Èª“Â±1

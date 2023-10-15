@@ -1,0 +1,10 @@
+
+D
+java:S1121".Extract the assignment out of this expression.(мЁ√ц
+O
+java:S1854"9Remove this useless assignment to local variable "value".(мЁ√ц
+T
+java:S1854"9Remove this useless assignment to local variable "value".(Ґы√»ю€€€€
+E
+java:S1481"*Remove this unused "value" local variable.(влк°э€€€€
+N	java:S106"9Replace this use of System.out or System.err by a logger.(мЁ√ц
