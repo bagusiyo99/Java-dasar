@@ -13,8 +13,6 @@ G
 src/TipeDataString.java,7\b\7be488f4ee5fbe8194c92eabcdf765751a858472
 J
 src/OperasiMatematika.java,d\f\dfeeae3ee98a5ef5670199fe7bc66a940317f33d
-L
-src/OperasiPerbandingan.java,c\f\cf614840993766d7518ae12018c797da081b3f41
 G
 src/OperasiBoolean.java,d\d\dda65d1284d4caf9ce284660fe9958eae9e82411
 C
