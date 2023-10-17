@@ -29,3 +29,9 @@ E
 src/ElseStatment.java,6\1\61a90e3f1125e180b4b06432ebf70e5b43ea0fc3
 D
 src/IfStatement.java,e\2\e267318c556d46229844cf4071b04121ce2bb511
+H
+src/TernaryOperator.java,9\b\9bd68bbe10d6943e041c08d867d9ee645ed06d87
+H
+src/SwitchStatement.java,0\a\0a2b1d53d1efffac5839da3a8d616bff4f385354
+L
+src/OperasiPerbandingan.java,c\f\cf614840993766d7518ae12018c797da081b3f41
